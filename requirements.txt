@@ -1,9 +1,5 @@
 pycaret==3.3.0
-scikit-learn==1.2.2
-joblib==1.2.0
 streamlit==1.35.0
-pandas==2.2.2
-plotly==5.22.0
 qdrant-client==1.8.1
 python-dotenv==1.0.1
 openai==1.30.1
