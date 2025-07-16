@@ -471,3 +471,11 @@ dtype: int64}]))),
                                                               use_cat_names=True))),
                 ('trained_model', KMeans(n_clusters=10, random_state=123))]), ml_usecase=None)
 2025-07-16 15:50:15,030:INFO:Set up data.
+2025-07-16 19:30:17,348:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 19:30:17,348:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 19:30:17,348:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-07-16 19:30:17,348:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
